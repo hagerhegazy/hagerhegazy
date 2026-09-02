@@ -18,17 +18,28 @@ I build intelligent AI systems with a focus on **Agentic AI, LLM applications, R
 
 ## 🛠️ Tech Stack
 
-**AI & Machine Learning**
-
-Python · PyTorch · TensorFlow · Scikit-learn
-
 **Agentic AI & LLMs**
 
 LLMs · RAG · AI Agents · Tool Calling · Multi-Agent Systems
 
+-https://github.com/hagerhegazy/ai-linkedin-post-generator
+-https://github.com/AhmedSeelim/shifaa (Graduation Project)
+
+
+**Machine Learning & Deep Learning**
+
+Python · PyTorch · TensorFlow · Scikit-learn
+
+-https://github.com/hagerhegazy/exoplanet-predictor -https://github.com/hagerhegazy/NASA-HuntingForExoplanets-Model
+-https://github.com/hagerhegazy/Two-stages-anomaly-detector-on-the-MIT-BIH-ECG-dataset
+
+
 **Computer Vision**
 
 OpenCV · Transfer Learning · Image Classification · Image Segmentation
+
+-https://github.com/hagerhegazy/xray-covid-classifier
+
 
 **AI Engineering**
 
