@@ -45,7 +45,6 @@ APIs · Git · GitHub
 
 ---
 
-
 ## 📚 Current Focus
 
 ```text
@@ -61,12 +60,6 @@ Multi-Agent Systems
     ↓
 Production AI Applications
 ```
-
----
-
-## 📊 GitHub
-
-[GitHub](https://github.com/hagerhegazy)
 
 ---
 
@@ -117,7 +110,6 @@ APIs · Git · GitHub
 
 ---
 
-
 ## 📚 Current Focus
 
 ```text
@@ -136,8 +128,7 @@ Production AI Applications
 
 ---
 
-
 ## 📫 Let's Connect
 
-🔗 [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/hager-hegazy-4253a4250))
+🔗 [LinkedIn](https://www.linkedin.com/in/hager-hegazy-4253a4250)
 📄 [CV](https://drive.google.com/file/d/1gNdMzxULEhnw3w802ZPkqgzBY692q1rA/view?usp=sharing)
