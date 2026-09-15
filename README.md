@@ -25,12 +25,12 @@ LLMs · RAG · AI Agents · Tool Calling · Multi-Agent Systems
 - [AI LinkedIn Post Generator](https://github.com/hagerhegazy/ai-linkedin-post-generator) — Agent that generates LinkedIn posts using LLMs
 - [Arabic sentiment classification](https://github.com/hagerhegazy/Arabic_sentiment_classification) — Classify hotel reviews
 - [Shifaa](https://github.com/AhmedSeelim/shifaa) — AI-powered medical diagnosis system *(Graduation Project)*
-- [persona](https://github.com/hagerhegazy/Hager-persona-qlora)-bot fine tuned with QLORa on personal Data
+- [persona](https://github.com/hagerhegazy/Hager-persona-qlora) — bot fine tuned with QLORa on personal Data
 
 **Automation**
 
 n8n
-- [NearMe]([https://github.com/hagerhegazy/Hager-persona-qlora](https://github.com/hagerhegazy/NearMe-n8n-AI-Powered-Place-Finder)-A natural-language local place finder powered by an LLM and the Google Places API, orchestrated with n8n.
+- [NearMe](https://github.com/hagerhegazy/NearMe-n8n-AI-Powered-Place-Finder) — A natural-language local place finder powered by an LLM and the Google Places API, orchestrated with n8n.
 
 **Machine Learning & Deep Learning**
 
