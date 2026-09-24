@@ -22,6 +22,7 @@ I build intelligent AI systems with a focus on **Agentic AI, LLM applications, R
 
 LLMs · RAG · AI Agents · Tool Calling · Multi-Agent Systems
 
+-[Excel AI Agent Expert](https://github.com/hagerhegazy/Excel-ai-analyst_MCP) — Agent reads and edits the sheets, saves the file, explains the insights, and draws the chart
 - [AI LinkedIn Post Generator](https://github.com/hagerhegazy/ai-linkedin-post-generator) — Agent that generates LinkedIn posts using LLMs
 - [Arabic sentiment classification](https://github.com/hagerhegazy/Arabic_sentiment_classification) — Classify hotel reviews
 - [Shifaa](https://github.com/AhmedSeelim/shifaa) — AI-powered medical diagnosis system *(Graduation Project)*
