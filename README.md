@@ -37,8 +37,7 @@ n8n
 
 Python · PyTorch · TensorFlow · Scikit-learn
 
-- [Exoplanet Predictor](https://github.com/hagerhegazy/exoplanet-predictor) — ML model to predict exoplanet candidates
-- [NASA – Hunting for Exoplanets](https://github.com/hagerhegazy/NASA-HuntingForExoplanets-Model) — Exoplanet detection model
+- [NASA – Hunting for Exoplanets](https://github.com/hagerhegazy/NASA-HuntingForExoplanets-Model) — ML detection model to predict exoplanet candidates
 - [Two-Stage Anomaly Detector (ECG)](https://github.com/hagerhegazy/Two-stages-anomaly-detector-on-the-MIT-BIH-ECG-dataset) — Anomaly detection on MIT-BIH ECG dataset
 
 **Computer Vision**
