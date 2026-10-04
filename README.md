@@ -27,6 +27,7 @@ LLMs · RAG · AI Agents · Tool Calling · Multi-Agent Systems
 - [Arabic sentiment classification](https://github.com/hagerhegazy/Arabic_sentiment_classification) — Classify hotel reviews
 - [Shifaa](https://github.com/AhmedSeelim/shifaa) — AI-powered medical diagnosis system *(Graduation Project)*
 - [persona](https://github.com/hagerhegazy/Hager-persona-qlora) — bot fine tuned with QLORa on personal Data
+- [RAG agent](https://github.com/hagerhegazy/RAG) — self-RAG routes each question to direct answer, PDF search, or web search
 
 **Automation**
 
