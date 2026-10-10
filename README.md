@@ -48,6 +48,7 @@ Python · PyTorch · TensorFlow · Scikit-learn
 OpenCV · Transfer Learning · Image Classification · Image Segmentation
 
 - [X-ray COVID Classifier](https://github.com/hagerhegazy/xray-covid-classifier) — Deep learning classifier for COVID detection from chest X-rays
+- [Diffusion-Yolo-Clip](https://github.com/hagerhegazy/Diffusion-Yolo-Clip) — generate an image with Stable Diffusion, then check the result with
 
 **AI Engineering**
 
