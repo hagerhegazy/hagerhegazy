@@ -22,9 +22,10 @@ I build intelligent AI systems with a focus on **Agentic AI, LLM applications, R
 
 LLMs · RAG · AI Agents · Tool Calling · Multi-Agent Systems
 
--  [SourceLens Multimodality RAG](https://github.com/hagerhegazy/SourceLens-Multimodality-RAG) — multimodal RAG assistant that answers questions over PDFs, videos and images and shows its evidence: the page
--  [Multi Agent Trip Planner](https://github.com/hagerhegazy/multi-agent-trip-planner) — Seven AI agents make and write a trip plan and connected with MCP that create detailed sheet and draw a chart
--  [Excel AI Agent Expert](https://github.com/hagerhegazy/Excel-ai-analyst_MCP) — Agent reads and edits the sheets, saves the file, explains the insights, and draws the chart
+- [Customer_Services_Agent-Messenger-WhatsApp-and-Telegram](https://github.com/hagerhegazy/Customer_Services_Agent-Messenger-WhatsApp-and-Telegram) — VelVet AlGo: "Sam", an AI sales employee for Facebook, Messenger and WhatsApp
+- [SourceLens Multimodality RAG](https://github.com/hagerhegazy/SourceLens-Multimodality-RAG) — multimodal RAG assistant that answers questions over PDFs, videos and images and shows its evidence: the page
+- [Multi Agent Trip Planner](https://github.com/hagerhegazy/multi-agent-trip-planner) — Seven AI agents make and write a trip plan and connected with MCP that create detailed sheet and draw a chart
+- [Excel AI Agent Expert](https://github.com/hagerhegazy/Excel-ai-analyst_MCP) — Agent reads and edits the sheets, saves the file, explains the insights, and draws the chart
 - [AI LinkedIn Post Generator](https://github.com/hagerhegazy/ai-linkedin-post-generator) — Agent that generates LinkedIn posts using LLMs
 - [Arabic sentiment classification](https://github.com/hagerhegazy/Arabic_sentiment_classification) — Classify hotel reviews
 - [Shifaa](https://github.com/AhmedSeelim/shifaa) — AI-powered medical diagnosis system *(Graduation Project)*
