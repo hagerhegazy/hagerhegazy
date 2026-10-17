@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hager-hegazy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://drive.google.com/file/d/1gNdMzxULEhnw3w802ZPkqgzBY692q1rA/view?usp=sharing"><img src="https://img.shields.io/badge/Download-CV-111827?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"></a>
+  <a href="https://drive.google.com/file/d/1Uf70rAHnemrAaTkfRZ93vWST8dM7NyhL/view?usp=sharing"><img src="https://img.shields.io/badge/Download-CV-111827?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"></a>
 </p>
 
 ---
@@ -96,5 +96,5 @@
 <p align="center">
   Open to opportunities and collaborations. Let's build something useful. 🤝<br>
   <a href="https://www.linkedin.com/in/hager-hegazy">LinkedIn</a> ·
-  <a href="https://drive.google.com/file/d/1gNdMzxULEhnw3w802ZPkqgzBY692q1rA/view?usp=sharing">CV</a>
+  <a href="https://drive.google.com/file/d/1Uf70rAHnemrAaTkfRZ93vWST8dM7NyhL/view?usp=sharing">CV</a>
 </p>
