@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hager-hegazy"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=000000&labelColor=000000" alt="LinkedIn"></a><a href="https://drive.google.com/drive/folders/1wfAfy9o_dh1DmkLkXReupAdMZBpgK9ws?usp=sharing"><img src="https://img.shields.io/badge/CV-000000?style=flat&logo=googledrive&logoColor=white" alt="CV"></a>
 </p>
+
 ---
 
 ## 🚀 Featured Projects
