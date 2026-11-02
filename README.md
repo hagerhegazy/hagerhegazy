@@ -7,14 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hager-hegazy" style="text-decoration:none; display:inline-block; vertical-align:middle; line-height:0;">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="display:block; border:0;">
-  </a>
-  &nbsp;
-  <a href="https://drive.google.com/drive/folders/1wfAfy9o_dh1DmkLkXReupAdMZBpgK9ws?usp=sharing" style="text-decoration:none; display:inline-block; vertical-align:middle; line-height:0;">
-    <img src="https://img.shields.io/badge/CV-000000?style=flat&logo=googledrive&logoColor=white" alt="CV" style="display:block; border:0;">
-  </a>
+  <a href="https://www.linkedin.com/in/hager-hegazy"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iI2ZmZiIvPjxjaXJjbGUgY3g9IjcuMiIgY3k9IjYuOCIgcj0iMS43IiBmaWxsPSIjMDAwIi8%2BPHJlY3QgeD0iNS43IiB5PSI5LjgiIHdpZHRoPSIzIiBoZWlnaHQ9IjguNCIgZmlsbD0iIzAwMCIvPjxwYXRoIGQ9Ik0xMSA5LjhoMi44djEuM2MuNy0xIDEuNy0xLjUgMy4xLTEuNSAyLjQgMCAzLjYgMS41IDMuNiA0LjF2NC41aC0yLjl2LTQuMWMwLTEuMi0uNS0yLTEuNi0yLTEuMiAwLTIuMi44LTIuMiAyLjJ2My45SDExeiIgZmlsbD0iIzAwMCIvPjwvc3ZnPg%3D%3D&logoWidth=18" alt="LinkedIn"></a>&nbsp;<a href="https://drive.google.com/drive/folders/1wfAfy9o_dh1DmkLkXReupAdMZBpgK9ws?usp=sharing"><img src="https://img.shields.io/badge/CV-000000?style=flat&logo=googledrive&logoColor=white" alt="CV"></a>
 </p>
+
 ---
 
 ## 🚀 Featured Projects
