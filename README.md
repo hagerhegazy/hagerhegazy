@@ -7,11 +7,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hager-hegazy">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/hager-hegazy"
+     style="text-decoration: none; display: inline-block; line-height: 0;">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white"
+         alt="LinkedIn"
+         style="display: block; border: 0;">
   </a>
-  <a href="https://drive.google.com/drive/folders/1wfAfy9o_dh1DmkLkXReupAdMZBpgK9ws?usp=sharing">
-    <img src="https://img.shields.io/badge/-CV-4285F4?style=flat&logo=googledrive&logoColor=white" alt="CV">
+  <a href="https://drive.google.com/drive/folders/1wfAfy9o_dh1DmkLkXReupAdMZBpgK9ws?usp=sharing"
+     style="text-decoration: none; display: inline-block; line-height: 0;">
+    <img src="https://img.shields.io/badge/CV-000000?style=flat&logo=googledrive&logoColor=white"
+         alt="CV"
+         style="display: block; border: 0;">
   </a>
 </p>
 
