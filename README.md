@@ -97,5 +97,5 @@
 <p align="center">
   Open to opportunities and collaborations. Let's build something useful. 🤝<br>
   <a href="https://www.linkedin.com/in/hager-hegazy">LinkedIn</a> ·
-  <a href="https://drive.google.com/file/d/1Uf70rAHnemrAaTkfRZ93vWST8dM7NyhL/view?usp=sharing">CV</a>
+  <a href="https://drive.google.com/file/d/1Uf70rAHnemrAaTkfRZ93vWST8dM7NyhL/view?usp=sharing">CV</a> .
 </p>
