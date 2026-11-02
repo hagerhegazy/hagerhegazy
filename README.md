@@ -7,17 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hager-hegazy" style="text-decoration:none; border-bottom:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=black&labelColor=000000&logoWidth=0" alt="LinkedIn">
- <p align="center">
-  <a href="https://www.linkedin.com/in/hager-hegazy">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=000000&labelColor=000000" alt="LinkedIn">
-  </a>
-</p>
-  </a>
-  &nbsp;
-  <a href="https://drive.google.com/drive/folders/1wfAfy9o_dh1DmkLkXReupAdMZBpgK9ws?usp=sharing" style="text-decoration:none; border-bottom:none;">
-    <img src="https://img.shields.io/badge/CV-000000?style=flat&logo=googledrive&logoColor=white" alt="CV">
+  <a href="https://www.linkedin.com/in/hager-hegazy" style="text-decoration:none; border:0;">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=000000&labelColor=000000"
+         alt="LinkedIn"
+         style="display:inline-block; border:0;">
+  </a><a href="https://drive.google.com/drive/folders/1wfAfy9o_dh1DmkLkXReupAdMZBpgK9ws?usp=sharing" style="text-decoration:none; border:0;">
+    <img src="https://img.shields.io/badge/CV-000000?style=flat&logo=googledrive&logoColor=white"
+         alt="CV"
+         style="display:inline-block; border:0;">
   </a>
 </p>
 
