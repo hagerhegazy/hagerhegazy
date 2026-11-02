@@ -17,10 +17,11 @@
 
 | Project | What it does | Key ideas |
 |---|---|---|
-| 💬 [**VelVet AlGo – Sales Agent**](https://github.com/hagerhegazy/Customer_Services_Agent-Messenger-WhatsApp-and-Telegram) | "Sam", an AI sales employee that talks to customers on Facebook, Messenger, WhatsApp and Telegram | Conversational agent · Multi-channel |
 | 🔎 [**SourceLens**](https://github.com/hagerhegazy/SourceLens-Multimodality-RAG) | Answers questions over PDFs, videos and images, and shows its evidence (the exact page) | Multimodal RAG · Source citation |
 | ✈️ [**Multi-Agent Trip Planner**](https://github.com/hagerhegazy/multi-agent-trip-planner) | Seven agents collaborate to research and write a trip plan, then build a detailed sheet and chart through MCP | Multi-agent · MCP |
+| 💻 [**Multi Coding Agents**](https://github.com/hagerhegazy/Multi-agent-code-generator) | A small orchestrator that turns a one-sentence task into a working Python project | Multi-agent
 | 📊 [**Excel AI Agent**](https://github.com/hagerhegazy/Excel-ai-analyst_MCP) | Reads and edits spreadsheets, saves the file, explains insights and draws charts | Tool use · MCP |
+| 💬 [**VelVet AlGo – Sales Agent**](https://github.com/hagerhegazy/Customer_Services_Agent-Messenger-WhatsApp-and-Telegram) | "Sam", an AI sales employee that talks to customers on Facebook, Messenger, WhatsApp and Telegram | Conversational agent · Multi-channel |
 | 🧭 [**Self-RAG Agent**](https://github.com/hagerhegazy/RAG) | Routes each question to a direct answer, PDF search, or web search | Routing · Self-RAG |
 
 ---
