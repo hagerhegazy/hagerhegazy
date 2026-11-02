@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hager-hegazy"></a>
-  <a href="https://drive.google.com/drive/folders/1wfAfy9o_dh1DmkLkXReupAdMZBpgK9ws?usp=sharing"><img src="https://img.shields.io/badge/Download-CV-111827?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"></a>
+  <a href="https://www.linkedin.com/in/hager-hegazy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://drive.google.com/drive/folders/1wfAfy9o_dh1DmkLkXReupAdMZBpgK9ws?usp=sharing"><img &logoColor=white" alt="CV"></a>
 </p>
 
 ---
